@@ -165,6 +165,5 @@ Case 3: 10 + 10
 
 <img width="1001" height="821" alt="image" src="https://github.com/user-attachments/assets/a556bb40-f0dd-472e-a3e4-6f75149931e6" />
 
-
 # Conclusion
 The vending machine controller was successfully designed using a Moore FSM model. The simulation verified correct product dispensing and change return behavior for different coin inputs.
